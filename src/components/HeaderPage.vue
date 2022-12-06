@@ -59,18 +59,6 @@ export default {
   background-color: #030636;
 }
 
-#blue{
-  padding: 5px 30px;
-  background-color: #1466A1;
-  border-radius: 25px;
-}
-
-#red{
-  padding: 5px 30px;
-  background-color: #DA466C;
-  border-radius: 25px;
-}
-
 header{
   display: flex;
   align-items: center;
