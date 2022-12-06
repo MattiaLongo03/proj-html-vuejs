@@ -38,7 +38,6 @@ export default {
     background-color: #030636;
 }
 .grow{
-    margin: 0;
     padding-top: 50px;
     display: flex;
     align-items: center;
