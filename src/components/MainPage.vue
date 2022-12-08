@@ -4,6 +4,7 @@
     <GrowBusiness />
     <LatestWork />
     <OurPricing />
+    <LatestPosts />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import WhatWeDoVue from './WhatWeDo.vue';
 import GrowBusiness from './GrowBusiness.vue';
 import LatestWork from './LatestWork.vue';
 import OurPricing from './OurPricing.vue';
+import LatestPosts from './LatestPosts.vue';
 
 export default {
   name: 'MainPage',
@@ -20,6 +22,7 @@ export default {
     GrowBusiness,
     LatestWork,
     OurPricing,
+    LatestPosts,
   },
 };
 </script>
