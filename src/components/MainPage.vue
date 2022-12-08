@@ -3,6 +3,7 @@
     <WhatWeDoVue />
     <GrowBusiness />
     <LatestWork />
+    <OurPricing />
   </div>
 </template>
 
@@ -10,6 +11,7 @@
 import WhatWeDoVue from './WhatWeDo.vue';
 import GrowBusiness from './GrowBusiness.vue';
 import LatestWork from './LatestWork.vue';
+import OurPricing from './OurPricing.vue';
 
 export default {
   name: 'MainPage',
@@ -17,6 +19,7 @@ export default {
     WhatWeDoVue,
     GrowBusiness,
     LatestWork,
+    OurPricing,
   },
 };
 </script>
