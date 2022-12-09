@@ -5,6 +5,7 @@
     <LatestWork />
     <OurPricing />
     <LatestPosts />
+    <WhatPeopleSay />
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import GrowBusiness from './GrowBusiness.vue';
 import LatestWork from './LatestWork.vue';
 import OurPricing from './OurPricing.vue';
 import LatestPosts from './LatestPosts.vue';
+import WhatPeopleSay from './WhatPeopleSay.vue';
 
 export default {
   name: 'MainPage',
@@ -23,6 +25,7 @@ export default {
     LatestWork,
     OurPricing,
     LatestPosts,
+    WhatPeopleSay,
   },
 };
 </script>
